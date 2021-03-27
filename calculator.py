@@ -1,3 +1,5 @@
+
+
 #! python3
 # calculator.py - A simple Calculator Using Tkinter Python GUI.
 
@@ -249,7 +251,8 @@ def equal_pressed():
 
 
 
-# create a display label on display_frame that shows a result
+# create a display label.
+
 data = StringVar()
 display_data = Label(
     mainFrame,
