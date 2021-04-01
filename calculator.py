@@ -2,6 +2,7 @@
 
 #! python3
 # calculator.py - A simple Calculator Using Tkinter Python GUI.
+# author- Madhuri Patil
 
 from tkinter import *
 from tkinter import ttk
