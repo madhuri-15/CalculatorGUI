@@ -6,7 +6,7 @@
 
 
 
-A Simple Tkinter calculator is a simple Graphical User Interface calculator developed by using the Tkinter module.
+A Simple calculator is a simple Graphical User Interface calculator developed by using the Tkinter module. which performs basic mathematical operations.
 
 
 ![](calculator.png)
